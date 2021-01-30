@@ -1,4 +1,5 @@
-# les_vid-os
+# les_videos
+# verites_terrains
 Contains 6 videos used for our research work.
 To use the ground truths please respect the following sizes for each video:
 walk1: (720,1280)
